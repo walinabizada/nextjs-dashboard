@@ -8,4 +8,5 @@
   // "extends": [
   //   "plugin:jsx-a11y/recommended"
   // ]
+  "extends": "next/core-web-vitals"
 }
